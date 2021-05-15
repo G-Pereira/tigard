@@ -72,7 +72,7 @@
     (mod_text_width 0.15)
     (pad_size 2 2)
     (pad_drill 1)
-    (pad_to_mask_clearance 0.05)
+    (pad_to_mask_clearance 0)
     (aux_axis_origin 76 76)
     (grid_origin 1 -0.05)
     (visible_elements FFFFFF7F)
