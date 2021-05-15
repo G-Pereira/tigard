@@ -3431,4 +3431,37 @@ F 3 "" H 2600 4100 50  0001 C CNN
 $EndComp
 Wire Wire Line
 	2600 4100 2600 4150
+$Comp
+L Mechanical:Fiducial FID1
+U 1 1 60A39755
+P 9175 4925
+F 0 "FID1" H 9260 4971 50  0000 L CNN
+F 1 "Fiducial" H 9260 4880 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9175 4925 50  0001 C CNN
+F 3 "~" H 9175 4925 50  0001 C CNN
+	1    9175 4925
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID2
+U 1 1 60A39B2D
+P 9175 5125
+F 0 "FID2" H 9260 5171 50  0000 L CNN
+F 1 "Fiducial" H 9260 5080 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9175 5125 50  0001 C CNN
+F 3 "~" H 9175 5125 50  0001 C CNN
+	1    9175 5125
+	1    0    0    -1  
+$EndComp
+$Comp
+L Mechanical:Fiducial FID3
+U 1 1 60A39E45
+P 9175 5325
+F 0 "FID3" H 9260 5371 50  0000 L CNN
+F 1 "Fiducial" H 9260 5280 50  0000 L CNN
+F 2 "Fiducial:Fiducial_0.5mm_Mask1mm" H 9175 5325 50  0001 C CNN
+F 3 "~" H 9175 5325 50  0001 C CNN
+	1    9175 5325
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
